@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356663315944",
+    "project_id": "gallery-7aeaa",
+    "storage_bucket": "gallery-7aeaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356663315944:android:e54d20e555159362abe85d",
+        "android_client_info": {
+          "package_name": "com.example.evaluvatin_cloud_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBevVXlIvi2NWW5TqnDIwnYM6P6vUG-zbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
